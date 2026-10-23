@@ -16,4 +16,4 @@ The owner may stop scheduled jobs and revoke Google or TinyFish access at any ti
 
 This page contains no conversation contents, credentials, personal contact information, or private repository address.
 
-Status: setup in progress; cloud scheduling is not yet enabled.
+Status: cloud scheduling enabled. Weekly processing is configured for Monday 09:00 Europe/Moscow, with pending export-email checks every four hours. Authentication challenges may require the owner to sign in again.
